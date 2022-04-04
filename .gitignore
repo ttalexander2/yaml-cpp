@@ -3,3 +3,6 @@ build/
 /bazel-*
 bin
 obj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
